@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "four-card-feature-section",
+  "builds": [
+    {
+      "src": "*",
+      "use": "@now/static"
+    }
+  ]
+}
